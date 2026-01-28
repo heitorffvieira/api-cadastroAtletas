@@ -40,7 +40,7 @@ public class AthleteService {
             switch (key) {
                 case "name" -> athlete.setName((String) value);
                 case "age" -> athlete.setAge((Integer) value);
-                case "size" -> athlete.setSize((String) value);
+                case "size" -> athlete.setSizeShirt((String) value);
             }
         });
 
