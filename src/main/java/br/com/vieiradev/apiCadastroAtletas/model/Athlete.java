@@ -19,6 +19,6 @@ public class Athlete {
 
     private String name;
     private Integer age;
-    private String size;
+    private String sizeShirt;
 
 }
