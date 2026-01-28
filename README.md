@@ -1,5 +1,5 @@
 # API do Projeto Cadastro de Atletas do Falcões Running.
-Backend de um pequeno, desenvolvido apenas para ter controle do número de camisas que serão encomendadas e quem serão os atletas com seus respectivos tamanhos e idade.
+Backend de um pequeno projeto, desenvolvido apenas para ter controle do número de camisas que serão encomendadas e quem serão os atletas com seus respectivos tamanhos e idade.
 
 ## Tecnologias Utilizadas:
 - Java
